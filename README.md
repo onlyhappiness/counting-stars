@@ -6,7 +6,18 @@
 
 ---
 
-### 참고
+## 참고
+
+### gdevelop
+
+- 정말에 게임에 최적화
+- 하지만 다소 무거울 듯?
+
+> https://gdevelop.io/
+
+### pixi.js
+
+- 랜더링에 최적화
 
 > https://reactpixi.org/
 
