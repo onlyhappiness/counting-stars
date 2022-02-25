@@ -6,21 +6,4 @@
 
 ---
 
-## 참고
-
-### gdevelop
-
-- 정말에 게임에 최적화
-- 하지만 다소 무거울 듯?
-
-> https://gdevelop.io/
-
-### pixi.js
-
-- 랜더링에 최적화
-
-> https://reactpixi.org/
-
-> > react-pixi는 검토가 필요
-
-> https://pixijs.io/examples/#/demos-basic/container.js
+![counting-star](https://user-images.githubusercontent.com/79133968/155758578-453f6b33-abc1-4462-a73c-a2a9aa5ac766.png)
