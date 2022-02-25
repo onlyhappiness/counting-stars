@@ -121,17 +121,17 @@ function PaticleBackground() {
         },
         interactivity: {
           detect_on: 'canvas',
-          events: {
-            onhover: {
-              enable: true,
-              mode: 'bubble',
-            },
-            onclick: {
-              enable: true,
-              mode: 'repulse',
-            },
-            resize: true,
-          },
+          // events: {
+          //   onhover: {
+          //     enable: true,
+          //     mode: 'bubble',
+          //   },
+          //   onclick: {
+          //     enable: true,
+          //     mode: 'repulse',
+          //   },
+          //   resize: true,
+          // },
           modes: {
             grab: {
               distance: 400,
