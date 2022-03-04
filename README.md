@@ -7,3 +7,13 @@
 ---
 
 ![counting-star](https://user-images.githubusercontent.com/79133968/155758578-453f6b33-abc1-4462-a73c-a2a9aa5ac766.png)
+
+<br>
+
+---
+
+<br>
+
+### star
+
+> https://www.react-reveal.com/examples/specials/flash/
